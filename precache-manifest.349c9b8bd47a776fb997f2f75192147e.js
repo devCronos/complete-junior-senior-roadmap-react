@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97146b3d040817eda397d5f6fa0f0802",
+    "revision": "2daf46cf54d48c25821112cc2d23c1ea",
     "url": "/complete-junior-senior-roadmap-react/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/complete-junior-senior-roadmap-react/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "2f23b4aa5a27348155f6",
-    "url": "/complete-junior-senior-roadmap-react/static/css/main.4d69ba7d.chunk.css"
+    "revision": "3d41a21d3995483c51bc",
+    "url": "/complete-junior-senior-roadmap-react/static/css/main.e71f4613.chunk.css"
   },
   {
     "revision": "54a7ffd0cd8af97d6c23",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/complete-junior-senior-roadmap-react/static/js/2.45bd8527.chunk.js.LICENSE"
   },
   {
-    "revision": "2f23b4aa5a27348155f6",
-    "url": "/complete-junior-senior-roadmap-react/static/js/main.da19049b.chunk.js"
+    "revision": "3d41a21d3995483c51bc",
+    "url": "/complete-junior-senior-roadmap-react/static/js/main.fc37aeb6.chunk.js"
   },
   {
     "revision": "de81214317e0c52f44c0",
